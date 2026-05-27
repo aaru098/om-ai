@@ -1,2 +1,3 @@
-export const MockupComponents = {};
-export default MockupComponents;
+export const modules = {};
+export default modules;
+
